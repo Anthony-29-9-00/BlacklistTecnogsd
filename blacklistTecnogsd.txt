@@ -1,0 +1,228 @@
+# FACEBOOK
+facebook.com
+www.facebook.com
+m.facebook.com
+mbasic.facebook.com
+business.facebook.com
+fb.com
+www.fb.com
+fb.me
+
+# INSTAGRAM
+instagram.com
+www.instagram.com
+m.instagram.com
+
+# TWITTER / X
+twitter.com
+www.twitter.com
+mobile.twitter.com
+x.com
+www.x.com
+mobile.x.com
+
+# TIKTOK
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+
+# SNAPCHAT
+snapchat.com
+www.snapchat.com
+accounts.snapchat.com
+
+# YOUTUBE (red social + streaming)
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+gaming.youtube.com
+youtu.be
+www.youtu.be
+
+# REDDIT
+reddit.com
+www.reddit.com
+old.reddit.com
+new.reddit.com
+
+# PINTEREST
+pinterest.com
+www.pinterest.com
+pin.it
+
+# LINKEDIN
+linkedin.com
+www.linkedin.com
+m.linkedin.com
+
+# DISCORD
+discord.com
+www.discord.com
+discord.gg
+discordapp.com
+www.discordapp.com
+
+# TELEGRAM
+telegram.org
+www.telegram.org
+web.telegram.org
+t.me
+
+# WHATSAPP WEB
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+chat.whatsapp.com
+
+# MESSENGER
+messenger.com
+www.messenger.com
+
+# THREADS
+threads.net
+www.threads.net
+
+# TUMBLR
+tumblr.com
+www.tumblr.com
+
+# TWITCH
+twitch.tv
+www.twitch.tv
+m.twitch.tv
+
+# KICK
+kick.com
+www.kick.com
+
+# BEREAL
+bereal.com
+www.bereal.com
+
+# VK
+vk.com
+www.vk.com
+m.vk.com
+
+# WEIBO
+weibo.com
+www.weibo.com
+
+# DOUBAN
+douban.com
+www.douban.com
+
+# QZONE
+qzone.qq.com
+
+# QQ
+qq.com
+www.qq.com
+
+# LINE
+line.me
+www.line.me
+line.com
+www.line.com
+
+# VIBER
+viber.com
+www.viber.com
+
+# SIGNAL
+signal.org
+www.signal.org
+
+# CLUBHOUSE
+clubhouse.com
+www.clubhouse.com
+
+# MASTODON
+mastodon.social
+mastodon.online
+mastodon.world
+
+# DIASPORA
+diasporafoundation.org
+joindiaspora.com
+
+# MEWE
+mewe.com
+www.mewe.com
+
+# MINDS
+minds.com
+www.minds.com
+
+# GAB
+gab.com
+www.gab.com
+
+# PARLER
+parler.com
+www.parler.com
+
+# TRUTH SOCIAL
+truthsocial.com
+www.truthsocial.com
+
+# RUMBLE
+rumble.com
+www.rumble.com
+
+# LIKEE
+likee.video
+www.likee.video
+
+# TRILLER
+triller.co
+www.triller.co
+
+# BIGO LIVE
+bigo.tv
+www.bigo.tv
+
+# IMVU
+imvu.com
+www.imvu.com
+
+# TAGGED
+tagged.com
+www.tagged.com
+
+# HI5
+hi5.com
+www.hi5.com
+
+# SKYROCK
+skyrock.com
+www.skyrock.com
+
+# NEXTDOOR
+nextdoor.com
+www.nextdoor.com
+
+# CARE2
+care2.com
+www.care2.com
+
+# FLICKR
+flickr.com
+www.flickr.com
+
+# 9GAG (social entretenimiento)
+9gag.com
+www.9gag.com
+
+# IFUNNY
+ifunny.co
+www.ifunny.co
+
+# IMGUR
+imgur.com
+www.imgur.com
+
+# BEREAL
+bere.al
+www.bere.al
